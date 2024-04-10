@@ -1,4 +1,5 @@
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*7qnCPIh9Bg3yB96XtrlCkg.gif">
+![High-Level Overview](https://raw.githubusercontent.com/Moustafa-Sherif/DevSecOps-Project-Kubernetes/main/Architecture.gif)
+
 
 High-Level Overview:
 
